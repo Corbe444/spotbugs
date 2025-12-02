@@ -11,7 +11,7 @@
 
 SpotBugs is licensed under the [GNU LESSER GENERAL PUBLIC LICENSE](https://github.com/spotbugs/spotbugs/blob/master/spotbugs/licenses/LICENSE.txt).
 
-More information at the [official website](https://spotbugs.github.io/). A lot of things can still be found at the [old FindBugs website](https://findbugs.sourceforge.net)..
+More information at the [official website](https://spotbugs.github.io/). A lot of things can still be found at the [old FindBugs website](https://findbugs.sourceforge.net).
 
 # Build
 
