@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - try_sonar
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
